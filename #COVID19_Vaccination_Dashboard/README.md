@@ -33,6 +33,12 @@ Future versions of this dashboard will use the latest available vaccination reco
 
 COVID-19 World Vaccination Progress Dataset
 
+## Dashboard Preview
+
+Dashboard screenshots are available in this project folder:
+- dashboard_page1.png
+- dashboard_page2.png
+
 ## Author
 
 Aanutomiwa Olugasa
