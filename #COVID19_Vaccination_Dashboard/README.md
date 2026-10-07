@@ -27,7 +27,7 @@ This Power BI dashboard analyzes global COVID-19 vaccination progress across 223
 
 ## Future Improvements
 
-he dashboard was updated to use the latest available cumulative vaccination records per country for key vaccination KPIs, reducing double-counting across dates.
+The dashboard was updated to use the latest available cumulative vaccination records per country for key vaccination KPIs, reducing double-counting across dates.
 
 Future improvements may include enhanced handling of missing records and additional country and regional comparisons.
 
